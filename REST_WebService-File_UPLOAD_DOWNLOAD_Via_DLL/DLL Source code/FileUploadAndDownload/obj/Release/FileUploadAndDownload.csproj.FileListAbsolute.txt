@@ -1,0 +1,9 @@
+C:\Users\Sikha.P\source\repos\FileUploadAndDownload\bin\Release\FileUploadAndDownload.dll
+C:\Users\Sikha.P\source\repos\FileUploadAndDownload\bin\Release\FileUploadAndDownload.pdb
+C:\Users\Sikha.P\source\repos\FileUploadAndDownload\bin\Release\Newtonsoft.Json.dll
+C:\Users\Sikha.P\source\repos\FileUploadAndDownload\bin\Release\Newtonsoft.Json.xml
+C:\Users\Sikha.P\source\repos\FileUploadAndDownload\obj\Release\FileUploadAndDownload.csprojAssemblyReference.cache
+C:\Users\Sikha.P\source\repos\FileUploadAndDownload\obj\Release\FileUploadAndDownload.csproj.CoreCompileInputs.cache
+C:\Users\Sikha.P\source\repos\FileUploadAndDownload\obj\Release\FileUploadAndDownload.csproj.CopyComplete
+C:\Users\Sikha.P\source\repos\FileUploadAndDownload\obj\Release\FileUploadAndDownload.dll
+C:\Users\Sikha.P\source\repos\FileUploadAndDownload\obj\Release\FileUploadAndDownload.pdb
